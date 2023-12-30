@@ -1,15 +1,15 @@
-### Hi there 👋
+### I'm TejPrakash Upadhyay 😇
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Shankul02" alt="Shankul" /> </p>
 
-**Shankul02/Shankul02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧑🏽‍💻 Mobile Web Developer @Shankul02
+- 💬 Ask me about **FrontEnd**
+- 🌱 I’m currently learning Jetpack Compose, KMP
+- 📫 How to reach me **Shankul102004@gma.com**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shankul02&show_icons=true&locale=en" alt="Shankul02" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shankul02&layout=compact"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shankul028&" alt="Shankul02" />
+</details>
