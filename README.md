@@ -4,7 +4,7 @@
 - 🧑🏽‍💻 Mobile Web Developer @Shankul02
 - 💬 Ask me about **FrontEnd**
 - 🌱 I’m currently learning Data Analysis 
-- 📫 How to reach me **Shankul102004@gma.com**
+- 📫 How to reach me **Shankul102004@gmail.com**
 
 
 <details>	
