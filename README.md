@@ -1,9 +1,9 @@
-### I'm TejPrakash Upadhyay 😇
+### I'm Shankul02 😇
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Shankul02" alt="Shankul" /> </p>
 
 - 🧑🏽‍💻 Mobile Web Developer @Shankul02
 - 💬 Ask me about **FrontEnd**
-- 🌱 I’m currently learning Jetpack Compose, KMP
+- 🌱 I’m currently learning Data Analysis 
 - 📫 How to reach me **Shankul102004@gma.com**
 
 
